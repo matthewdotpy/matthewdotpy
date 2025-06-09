@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there! 👋
 
-I'm Matthew, a full stack developer who loves building new apps or websites for solutions. Whether it's coding, debugging, or brainstorming new ideas, I'm always eager to jump into new things.
+I'm Matthew, a full stack developer who loves building  newapps or websites for solutions. Whether it's coding, debugging, or brainstorming new ideas, I'm always excited to dive in. I recently transitioned to a personal account after running things under my organization [Bloodhaven Studios](https://github.com/BloodhavenStudios).
 
 ## About Me
 
